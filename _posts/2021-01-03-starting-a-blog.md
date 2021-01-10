@@ -34,9 +34,9 @@ implicitly make use of storytelling. Notwithstanding Groucho Marx's whimisical s
 I would be remiss if passed up on the opportunity to tell a good story.
   
 In embracing the cognitively abuzz, yet tranquil space that writing has always been for me, I hope that bringing this blog into existence will:
-    1. force me to engage with the limits of my understanding of the work that I do,
-    2. encourage myself to give my utmost to tell a good story and self-actualize my best self through the written word, and 
-    3. educate through practice.
+  1. force me to engage with the limits of my understanding of the work that I do,
+  2. encourage myself to give my utmost to tell a good story and self-actualize my best self through the written word, and 
+  3. educate through practice.
   
 ## Modus Operandi
 
