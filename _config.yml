@@ -25,6 +25,7 @@ logo: "images/resized-image-Promo-3.jpeg?raw=True" # your photo (or logo) here
 avatar: "images/resized-image-Promo-3.jpeg?raw=True"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
+email: dlaufer001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -46,8 +47,8 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  # TODO bitsbybrad email
-  # email: "daniel.laufer@innoplexus.com"
+  # TODO another email for the blog
+  email: "dlaufer001@gmail.com"
   #facebook:
   github: DanielLauferPhysics
   # twitter: daattali
@@ -74,7 +75,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  email: false
+  email: true
   github: true
   linkedin: true
   vk: false
@@ -113,10 +114,10 @@ footer-link-col: "#404040"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-# gtag: "UA-178136348-1"
+gtag: "UA-186989411-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-# google_analytics: "UA-178136348-1"
+google_analytics: "UA-186989411-1"
 
 # Google Tag Manager ID
 #gtm: ""
