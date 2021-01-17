@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Make and End is to Make a Beginning
-readtime: false
+readtime: true
 tags: [writing, learning, humor, data science, story-telling, physics, history]
 ---
 
@@ -74,6 +74,6 @@ blossom into, and if for nothing else, as a place of reference for "... my princ
 I have on and off mulled over the meaning of Ikigai and practices that make up and positively contribute to my joi-de-vivre, and I've made the decision to keep writing. 
 In the spirit of renewal, I wish to leave you with an excerpt from one of my favorite long-form poems, "Leaves of Grass":
   
-  “I celebrate myself, and sing myself, 
+  “I celebrate myself, and sing myself,
   And what I assume you shall assume,
   For every atom belonging to me as good belongs to you.”
